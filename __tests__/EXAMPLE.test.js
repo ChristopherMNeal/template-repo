@@ -1,4 +1,4 @@
-// import Rectangle from '../src/js/rectangle.js';
+// import Rectangle from '../src/js/EXAMPLE.js';
 
 // describe ('Rectangle', () => {
 //   let rectangle;
